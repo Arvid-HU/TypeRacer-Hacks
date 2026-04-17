@@ -10,7 +10,6 @@ Yes. This still works in 2026 somehow.
 This repository is published for educational purposes (e.g., learning about browser automation and DOM scripting).
 
 - Do **not** use this to cheat leaderboards or violate TypeRacer's Terms of Service.
-- Use only on systems you own/control, or where you have explicit permission to test.
 - If you choose to use this anyway, you do so **at your own risk** and you are solely responsible for any consequences (including account bans).
 - This code is provided "as is", without warranty of any kind.
 
